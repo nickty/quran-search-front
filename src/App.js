@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { searchQuran } from "quran-search";
+import { searchQuran } from "./api"
 import "./App.css";
 
 const App = () => {
